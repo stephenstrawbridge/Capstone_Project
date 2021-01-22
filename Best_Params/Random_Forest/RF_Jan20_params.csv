@@ -1,0 +1,2 @@
+,ccp_alpha,max_depth,max_features,n_estimators,score
+model_1,0,250,20,10000,0.31648978824227314
