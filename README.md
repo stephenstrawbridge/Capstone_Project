@@ -21,7 +21,7 @@ I hypothesize that movie production companies are *not* as accurate as they coul
 * <u>CSVs</u> - Contains the raw/original dataset pulled from online source. Also contains the cleaned CSV dataframe that was produced by Notebook 1.  This cleaned CSV was imported at the start of all modeling notebooks.
 * <u>Excels</u> - Contains 'cleaned' and 'original' excel dataframes solely used for interpretability purposes, rather than as imports into any coding notebook. 'Predictions' and 'Tableau' excel dataframes were imported into Tableau for visualization and presentation purposes.
 * <u>images</u> - Contains images used in either the coding notebooks for the following README.
-* <u>Tableau Public Link</u> - GIVE LINK
+* <u>Tableau Public Link</u> - ([*link*](https://public.tableau.com/profile/stephenstrawbridge#!/))
 
 
 
